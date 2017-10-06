@@ -22,7 +22,7 @@ Please don't worry if you do not understand stuff from the videos/posts above. T
 
 ### Deep Learning for Computer Vision
 
-If you looking for a specific course in Computer Vision or Natural Language Processing, you should take the following courses as well. They are regarded as one of the best course on their respective subjects.
+If you are looking for a specific course in Computer Vision or Natural Language Processing, you should take the following courses as well. They are regarded as one of the best courses in NLP and CV.
 
 - Deep Learning for Computer Vision (https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - Deep Learning for Natural Language Processing (https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
