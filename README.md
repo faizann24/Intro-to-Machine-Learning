@@ -9,6 +9,7 @@ Please follow these tutorials before auditing any course.
 - A Non-Technical ML Intro (https://blog.safegraph.com/a-non-technical-introduction-to-machine-learning-b49fce202ae8)
 - Machine Learning, An Introductory Primer (https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - Artificial Intelligence, Revealed (https://code.facebook.com/posts/384869298519962/artificial-intelligence-revealed/). This is an awesome short video series by one of the best researchers in Artificial Intelligence. It's a must watch before starting any course.
+- What is a neural network (https://www.youtube.com/watch?v=aircAruvnKk)
 - Summary of Deep Learning for Computer Vision (https://www.youtube.com/watch?v=u6aEYuemt0M&list=PLWtzrfzH7gsfxTs8neTRJDXuqAn7qeV4E&index=2)
 - Summary of Deep Learning for Natural Language Processing (https://www.youtube.com/watch?v=oGk1v1jQITw&list=PLWtzrfzH7gsfxTs8neTRJDXuqAn7qeV4E&index=3)
 - Foundations for Deep Learning (https://www.youtube.com/watch?v=zij_FTbJHsk&list=PLWtzrfzH7gsfxTs8neTRJDXuqAn7qeV4E&index=1)
